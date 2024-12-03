@@ -37,8 +37,8 @@ SequenseOfNumbers/obj/
 SequenseOfNumbersTest/bin/
 SequenseOfNumbersTest/obj/
 
-NumbersSequense/bin/
-NumbersSequense/obj/
+NumberSequence/bin/
+NumberSequence/obj/
 
 /Puml
 
@@ -408,3 +408,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
