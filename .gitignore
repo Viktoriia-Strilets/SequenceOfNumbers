@@ -33,13 +33,14 @@ bld/
 [Ll]ogs/
 SequenseOfNumbers/bin/
 SequenseOfNumbers/obj/
+SequenseOfNumbers/Properties/
 
 SequenseOfNumbersTest/bin/
 SequenseOfNumbersTest/obj/
 
-NumberSequense/bin/
-NumberSequense/obj/
-
+NumberSequence/bin/
+NumberSequence/obj/
+NumberSequence/Properties/
 /Puml
 
 # Visual Studio 2015/2017 cache/options directory
