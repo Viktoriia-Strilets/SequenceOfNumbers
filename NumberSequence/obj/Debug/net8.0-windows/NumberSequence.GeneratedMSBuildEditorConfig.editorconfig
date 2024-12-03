@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NumberSequence
-build_property.ProjectDir = c:\study\projects\2024 Csharp\SequenceOfNumbers\NumberSequence\
+build_property.ProjectDir = c:\study\projects\2024 Csharp\NumberSequence\SequenceOfNumbers\NumberSequence\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
